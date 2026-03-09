@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect, useCallback } from 'react';
-import Threescene from './components/Threescene';
+import Threescene from './components/ThreeScene';
 import Loader from './components/Loader';
 import Cursor from './components/Cursor';
 import Navbar from './components/Navbar';
