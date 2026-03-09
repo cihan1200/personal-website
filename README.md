@@ -1,5 +1,7 @@
 # Cihan Işık — Personal Portfolio
 
+**🌐 Live Site: [personal-website-eta-gold-16.vercel.app](https://personal-website-eta-gold-16.vercel.app)**
+
 A personal portfolio website built with **React** and **Three.js**, featuring an immersive 3D background, cinematic section transitions, and a custom cursor. Inspired by the aesthetic of [Active Theory](https://activetheory.net/).
 
 ---
@@ -49,63 +51,6 @@ src/
 ├── App.jsx                   # Root component — owns state & navigation
 ├── main.jsx                  # Entry point
 └── index.css                 # All global styles
-```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) v18 or higher
-- npm v9 or higher
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/cihan1200/personal-website.git
-
-# 2. Navigate into the project
-cd personal-website
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
-```
-
-The site will be available at `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-Output will be in the `dist/` folder, ready to deploy.
-
----
-
-## 🌐 Deployment
-
-This project can be deployed to any static hosting platform.
-
-### Vercel (Recommended)
-
-```bash
-npm install -g vercel
-vercel
-```
-
-Or connect your GitHub repo directly at [vercel.com](https://vercel.com) for automatic deployments on every push.
-
-### Netlify
-
-```bash
-npm run build
-# Then drag and drop the dist/ folder at netlify.com/drop
 ```
 
 ---
