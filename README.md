@@ -2,7 +2,7 @@
 
 **🌐 Live Site: [personal-website-eta-gold-16.vercel.app](https://personal-website-eta-gold-16.vercel.app)**
 
-A personal portfolio website built with **React** and **Three.js**, featuring an immersive 3D background, cinematic section transitions, and a custom cursor. Inspired by the aesthetic of [Active Theory](https://activetheory.net/).
+A personal portfolio website built with **React** and **Three.js**, featuring an immersive 3D background, cinematic section transitions, and a custom cursor.
 
 ---
 
